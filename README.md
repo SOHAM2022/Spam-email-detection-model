@@ -1,3 +1,4 @@
+# Spam Email Detection
 Spam emails such as phishing and advertisements cost businesses and individuals millions of dollars annually.
 
 There are several techniques to automatically detect spam emails, although none of them have showed 100% predictive accuracy. One of the earliest examples of a successful spam classification model was the Naive Bayes classification model. However, nowadays, this model lags behind more sophisticated counterparts within machine learning and deep learning models, particularly those better suited for Natural Language Processing. Among all proposed models, machine learning and deep learning algorithms have achieved better accuracy.
